@@ -1011,6 +1011,13 @@
       "description": "yyyy",
       "comics": [],
       "id": 4
+    },
+    {
+      "name": "Dalton",
+      "owner": "Dalton",
+      "description": "",
+      "comics": [],
+      "id": 5
     }
   ]
 }
