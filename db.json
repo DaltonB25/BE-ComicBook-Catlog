@@ -1004,6 +1004,13 @@
         }
       ],
       "id": 3
+    },
+    {
+      "name": "Ironman",
+      "owner": "Dalton",
+      "description": "yyyy",
+      "comics": [],
+      "id": 4
     }
   ]
 }
